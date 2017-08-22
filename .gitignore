@@ -1,0 +1,8 @@
+# egg-info stuff
+oglhslack.egg-info
+
+# log stuff
+*.log
+
+# distributions:
+dist/*
