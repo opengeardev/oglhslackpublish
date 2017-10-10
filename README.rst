@@ -2,12 +2,12 @@ Lighthouse API client
 =====================
 
 This project provides a ready to go implementation of the `Lighthouse
-API Client <https://github.com/opengeardev/oglhclient>`__ as a Slack
+API Client <https://github.com/opengear/oglhclient>`__ as a Slack
 Bot.
 
 It has also a `Docker
 image <https://hub.docker.com/r/opengeardev/oglhslack/>`__ for launching
-the slack bot in minutes.
+the Slack bot in minutes.
 
 Authentication
 --------------
@@ -79,7 +79,7 @@ API client commands
 ~~~~~~~~~~~~~~~~~~~
 
 This commands follow the `Lighthouse API
-Client <https://github.com/opengeardev/oglhclient>`__ conventions.
+Client <https://github.com/opengear/oglhclient>`__ conventions.
 
 For listing objects like ``nodes`` it is possible to perform:
 
